@@ -104,15 +104,15 @@ CRUD applications are the foundation of most web applications. Being able to man
 
 > _Alright! You ready! Let's see you use the skills of the previous steps to build a crud function from start to finish._
 
--   [ ] Use `EditMovieForm.js` as a model to build an `AddMovieForm` component from scratch. The component should hold all the attributes of a new movie in local state.
+-   [x] Use `EditMovieForm.js` as a model to build an `AddMovieForm` component from scratch. The component should hold all the attributes of a new movie in local state.
 
--   [ ] Add in a route that allows access to `AddMovieForm`.
+-   [x] Add in a route that allows access to `AddMovieForm`.
 
--   [ ] Locate the part of the ui that should redirect to your new `AddMovieForm`. Make that button works as expected.
+-   [x] Locate the part of the ui that should redirect to your new `AddMovieForm`. Make that button works as expected.
 
--   [ ] In `AddMovieForm,` add an event handler for form submission. When the form is submitted, run the approprate request for adding a movie with the component's state values.
+-   [x] In `AddMovieForm,` add an event handler for form submission. When the form is submitted, run the approprate request for adding a movie with the component's state values.
 
--   [ ] Make sure your component has access to and runs and modifications needed to global state and redirects to `/movies` after creation.
+-   [x] Make sure your component has access to and runs and modifications needed to global state and redirects to `/movies` after creation.
 
 ### Stretch goals
 
@@ -123,7 +123,7 @@ CRUD applications are the foundation of most web applications. Being able to man
 
 ### Submission Format
 
--   [ ] If this is your first time connecting a submission, authorize your github account within the codegrade assignment.
--   [ ] Connect your fork to Codegrade using the "Connect Git" button.
--   [ ] Find your newly created fork from the list and push your work to main.
--   [ ] Check this video for details: www.youtube.com/watch?v=fC2BO7dI6IQ
+-   [x] If this is your first time connecting a submission, authorize your github account within the codegrade assignment.
+-   [x] Connect your fork to Codegrade using the "Connect Git" button.
+-   [x] Find your newly created fork from the list and push your work to main.
+-   [x] Check this video for details: www.youtube.com/watch?v=fC2BO7dI6IQ

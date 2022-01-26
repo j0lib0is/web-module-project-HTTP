@@ -73,8 +73,7 @@ const EditMovieForm = (props) => {
 					<div className="form-group">
 						<label>Description</label>
 						<textarea value={description} onChange={handleChange} name="description" className="form-control"></textarea>
-					</div>
-									
+					</div>			
 				</div>
 				<div className="modal-footer">			    
 					<input type="submit" className="btn btn-info" value="Save"/>
